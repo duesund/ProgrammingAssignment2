@@ -1,6 +1,9 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Assignment: Caching the Inverse of a Matrix
+## Write the following functions:
+## makeCacheMatrix: This function creates a special "matrix" object that can cache its inverse.
+## cacheSolve: This function computes the inverse of the special "matrix" returned by makeCacheMatrix above. If the inverse has already been calculated (and the matrix has not changed), then the cachesolve should retrieve the inverse from the cache.
 
+## Submission: I have rewritten the example functions makeVector and cachemean to handle matrix and inverse.
 
 ## makeCacheMatrix creates a list containing functions to
 ## set the value of the matrix
